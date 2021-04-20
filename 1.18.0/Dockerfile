@@ -1,4 +1,4 @@
-FROM nginx:1.18.0
+FROM nginx:1.18.0-alpine
 
 LABEL maintainer="应卓 <yingzhor@gmail.com>"
 
